@@ -1,0 +1,7 @@
+{
+  "name": "WereWolf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
